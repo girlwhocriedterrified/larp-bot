@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.DS_Store
+bot_data.json
+boot_data.json
+polls_data.json
